@@ -67,6 +67,14 @@ Please cite as:
 To run this lesson you need to install data from …
 
 ### Software setup
-To run this course you need to install… continue with software installation instructions
+To follow this lesson, learners need a working R environment and RStudio.
+
+#### Required software:
+  - R (version 4.4 or newer recommended)
+    Download and installation instructions are available from the Comprehensive R Archive Network (CRAN): https://cran.r-project.org/
+  
+  - RStudio
+    RStudio provides an integrated development environment for R and is strongly recommended for this lesson: https://posit.co/download/rstudio-desktop/
+
 
 
