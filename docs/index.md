@@ -1,4 +1,4 @@
-# ELIXIR Lesson Title 
+# Odyssey training lesson 
 
 [add-bioschemas file='_data/metadata.yaml']
 
@@ -12,28 +12,28 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    This lesson introduces the Odyssey framework, an R Shiny application that supports interactive exploration of biodiversity data. Through hands-on examples, learners will use Odyssey to investigate molecular biodiversity records alongside geographic metadata and gain experience with practical data discovery workflows for biodiversity research and data management.
     
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+    &emsp;1. Basic familiarity with R and RStudio  
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    &emsp;1. Use the Odyssey interface to explore biodiversity datasets  
+    &emsp;2. Inspect and assess geographic and molecular metadata consistency 
+    &emsp;3. Apply interactive filters and visualizations to support data discovery  
     
     </br>
     
     :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
     </br>
     
-    :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
+    :fontawesome-solid-stairs: **Level:** Beginner to Intermediate 
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
