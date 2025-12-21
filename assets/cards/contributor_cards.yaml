@@ -1,0 +1,60 @@
+- title: Helle Tessand Baalsrud
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4161-3247) [:simple-github:](https://github.com/hellebaa)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/021-artemis.png
+
+- title: Aristotelis C. Papageorgiou
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-6657-7820) [:simple-github:](https://github.com/aripapage)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/006-ares.png
+
+- title: Evangelos (Vangelis) Pafilis
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-5079-0125) [:simple-github:](https://github.com/evangelospafilis)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/019-prometheus.png
+
+- title: Margaritis Tsifintaris
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-8603-3767) [:simple-github:](https://github.com/Mtsif)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/042-hercules.png 
+
+- title: Nefeli Venetsianou
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4161-3247) [:simple-github:](https://github.com/nvenetsianou)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/021-artemis.png
+
+- title: Alexios Loukas
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-8603-3767) [:simple-github:](https://github.com/loukalexis)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/042-hercules.png 
+
+- title: Lars Grønvold
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-5404-4285) [:simple-github:](https://github.com/Larsgr)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/019-prometheus.png
+
+- title: Arturo Vera Ponce de Leon
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0003-4085-5700) [:simple-github:](https://github.com/avera1988)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/025-perseus.png
+
+- title: Thu-Hien To
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0003-2902-3655) [:simple-github:](https://github.com/tothuhien)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/027-nike.png
+
+- title: Gareth Benjamin Gillard
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-9533-3227) [:simple-github:](https://github.com/garethgillard)<br>
+    Lorem ipsum dolor sit amet.
+  image: ./assets/images/cards/025-perseus.png
+
