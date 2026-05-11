@@ -63,17 +63,15 @@ Please cite as:
 ## Setup
 
 ### Data setup
-To run this lesson you need to install data from …
+
+No prior data download is required for this lesson. The application is designed to automatically query and retrieve the necessary data directly during runtime. Please just ensure you have an active internet connection to allow the application to fetch the data successfully.
 
 ### Software setup
 To follow this lesson, learners need a working R environment and RStudio.
 
 #### Required software:
-  - R (version 4.4 or newer recommended)
+  - **R (version 4.5 or newer, 4.6 recommended)**:
     Download and installation instructions are available from the Comprehensive R Archive Network (CRAN): https://cran.r-project.org/
   
-  - RStudio
+  - **RStudio**
     RStudio provides an integrated development environment for R and is strongly recommended for this lesson: https://posit.co/download/rstudio-desktop/
-
-
-
