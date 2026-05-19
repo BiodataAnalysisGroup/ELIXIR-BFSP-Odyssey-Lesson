@@ -1,4 +1,4 @@
-**Course Pace and Duration**
+**Course Schedule**
 
 This self-paced and self-directed learning module lets you advance at your convenience. Before starting, please 
 install the necessary software. Once set up, feel free to practice with the use cases at your own pace.
