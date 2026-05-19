@@ -1,3 +1,5 @@
+Note: this file is now obsolete. Its content has been moved in the *Lesson Overview* box of the course's home page (*index.md*)
+
 **Course Schedule**
 
 This self-paced and self-directed learning module lets you advance at your convenience. Before starting, please 
