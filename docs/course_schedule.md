@@ -1,7 +1,6 @@
+**Course Pace and Duration**
 
-| start 	| end   	| topic   	|
-|-------	|-------	|---------	|
-| 10:00 	| 10:30 	| coffee! 	|
-| 12:00 	| 13:00 	| lunch!  	|
+This self-paced and self-directed learning module lets you advance at your convenience. Before starting, please 
+install the necessary software. Once set up, feel free to practice with the use cases at your own pace.
 
-Generate markdown tables at [tablesgenerator.com](https://www.tablesgenerator.com/markdown_tables)
+*Note:* Excluding the initial setup phase, the course content is designed for completion in under an hour.
