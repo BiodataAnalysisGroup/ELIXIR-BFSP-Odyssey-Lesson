@@ -29,13 +29,26 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
+    :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, citizens scientists, stakeholders, and more.
+    
+    </br>
+
+    :fontawesome-solid-stairs: **Level:** Beginner to Intermediate 
+
+    </br>
+
+    :fontawesome-solid-person-running: **Schedule:** This self-paced and self-directed learning module lets you advance at your convenience. Before starting, please install the necessary software. Once set up, feel free to practice with the use cases at your own pace. 
+
+    </br>
+   
+    :fontawesome-solid-hourglass: **Duration:** Excluding the initial setup phase, the course content is designed for completion in under an hour.
+
     </br>
     
-    :fontawesome-solid-stairs: **Level:** Beginner to Intermediate 
-    
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
-    
+
+     </br>
+
     :fontawesome-solid-money-bill-1: **Funding:** This work was supported by ELIXIR, the research infrastructure for life science data (through the 2024-SCIENCE-BFSP commissioned services project).  
 
     [comment]: # (Property in Bioschema: description)
