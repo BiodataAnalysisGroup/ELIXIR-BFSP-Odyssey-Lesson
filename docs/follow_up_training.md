@@ -1,4 +1,5 @@
-Please stay up-to-date with:
+Stay up-to-date with:
+
 * the Odyssey project page at: [https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/](https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey/)
 * the latest version of Odyssey at [https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey](https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey)
 
