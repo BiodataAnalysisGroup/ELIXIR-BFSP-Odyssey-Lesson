@@ -3,7 +3,7 @@
 
 <br>
 
-<!-- Presentation extracted out the 18th May 2026 Odyssey's online training event -->
+<!-- Presentation extracted from the 18th May 2026 Odyssey's online training material -->
 <object data="../../assets/pdfs/odyssey_introduction.pdf" type="application/pdf" width="75%" height="488px">
     <embed src="../../assets/pdfs/odyssey_introduction.pdf" type="application/pdf" />
 </object> 
