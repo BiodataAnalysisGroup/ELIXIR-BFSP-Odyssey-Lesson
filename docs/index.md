@@ -6,7 +6,7 @@
 
 [cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
 
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](https://www.flaticon.com)
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from A [www.flaticon.com](https://www.flaticon.com)
 
 ## Lesson overview
 
@@ -62,7 +62,8 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 #### Contributors
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
+
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from B [www.flaticon.com](https://www.flaticon.com)
 
 ---
 ## Citing this lesson
