@@ -1,8 +1,5 @@
-https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey-Lesson/chapters/chapter_01/
+An introductory presentation to Odyssey is available [here](../../docs/assets/pdfs/odyssey_introduction.pdf) as well as below:
 
-An introductory presentation to Odyssey is available [here]("../../docs/assets/pdfs/odyssey_introduction.pdf") as well as below:
-test 2: https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey-Lesson/assets/pdfs/odyssey_introduction.pdf
-test 3: https://biodataanalysisgroup.github.io/ELIXIR-BFSP-Odyssey-Lesson/assets/images/cards/fpsom.jpg
 <hr> 
 1
 <hr> 
