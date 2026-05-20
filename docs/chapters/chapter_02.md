@@ -1,15 +1,9 @@
-## 2.1 First subtopic
-Here you can enter text and if you need to cite[@creative_commons_2022]
+Please visit the [Odyssey's repository](https://github.com/BiodataAnalysisGroup/ELIXIR-BFSP-Odyssey) for the most up-to-date guidance on how to install.
+<br>
+Additional information is also available below:
+<!-- Presentation extracted from the 18th May 2026 Odyssey's online training material -->
+<object data="../../assets/pdfs/odyssey_how_to_setup.pdf" type="application/pdf" width="75%" height="488px">
+    <embed src="../../assets/pdfs/odyssey_how_to_setup.pdf" type="application/pdf" />
+</object> 
 
-!!! example "Challenge 1"
-
-    This is an example of text of Challenge 1
-
-    ??? success "Solution"
-
-        This is an example solution for Challenge 1.
-
-
-## 2.2 Second subtopic
-
-## 2.3 Third subtopic
+In case your browser does not support PDF rendering, please <a href="../../assets/pdfs/odyssey_how_to_setup.pdf">download the PDF</a> instead.
