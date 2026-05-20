@@ -6,7 +6,7 @@ for the deployed, online version of the lesson.
 
 This lesson introduces the Odyssey framework, an R Shiny application that supports interactive exploration of biodiversity data. Through hands-on examples, learners will use Odyssey to investigate molecular biodiversity records alongside geographic metadata and gain experience with practical data discovery workflows for biodiversity research and data management.
 
-This repository is based (actually extending) the lesson template created by the Elixir training platform. Pertinent information follows:
+This repository is based/extends the lesson template created by the Elixir training platform. Pertinent information on the latter follows:
 
 # Elixir Training Lesson template
 
