@@ -40,7 +40,8 @@ plugins:
 
   
 # Footer
-copyright: By the ELIXIR Training Platform
+#copyright: By the ELIXIR Training Platform
+copyright: By the Odyssey team, based on a template by the ELIXIR Training Platform
 
 markdown_extensions:
   - abbr
