@@ -8,7 +8,6 @@ ENA was queried for records from 2020–2025 in the Mount Athos peninsula, revea
 <object data="../../assets/pdfs/οdyssey_mt_athos.pdf" type="application/pdf" width="75%" height="488px">
     <embed src="../../assets/pdfs/οdyssey_mt_athos.pdf" type="application/pdf" />
 </object> 
-
 In case your browser does not support PDF rendering, please <a href="../../assets/pdfs/οdyssey_mt_athos.pdf">download the PDF</a> instead.
 
 ## Mt. Voras and Mt. Paiko (a taxon/location based data browsing)
@@ -19,7 +18,6 @@ A search for *Fagus sylvatica* (beech) ENA records in Greece returned only two r
 <object data="../../assets/pdfs/οdyssey_mt_voras_mt_paiko.pdf" type="application/pdf" width="75%" height="488px">
     <embed src="../../assets/pdfs/οdyssey_mt_voras_mt_paiko.pdf" type="application/pdf" />
 </object> 
-
 In case your browser does not support PDF rendering, please <a href="../../assets/pdfs/οdyssey_mt_voras_mt_paiko.pdf">download the PDF</a> instead.
 
 ## Norway’s Ulva (a taxon/location based data exploration)
@@ -30,7 +28,6 @@ Searching ENA for plant records along the Norwegian coast (2023–2025) revealed
 <object data="../../assets/pdfs/οdyssey_norway_ulva.pdf" type="application/pdf" width="75%" height="488px">
     <embed src="../../assets/pdfs/οdyssey_norway_ulva.pdf" type="application/pdf" />
 </object> 
-
 In case your browser does not support PDF rendering, please <a href="../../assets/pdfs/οdyssey_norway_ulva.pdf">download the PDF</a> instead.
 
 ## Cretan Sea (a location based data browsing)
@@ -41,5 +38,4 @@ A search spanning 2000–2026 in the Cretan Sea returned 40 COI marker gene sequ
 <object data="../../assets/pdfs/οdyssey_cretan_sea.pdf" type="application/pdf" width="75%" height="488px">
     <embed src="../../assets/pdfs/οdyssey_cretan_sea.pdf" type="application/pdf" />
 </object>
-
 In case your browser does not support PDF rendering, please <a href="../../assets/pdfs/οdyssey_cretan_sea.pdf">download the PDF</a> instead.
